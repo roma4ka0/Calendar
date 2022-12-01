@@ -1,0 +1,27 @@
+{
+  "name": "react-multiple-datepicker-forked",
+  "version": "0.0.0",
+  "description": "Let your users pick more than one date\n\nhttps://github.com/codeinfuse/react-multiple-datepicker",
+  "keywords": [
+    "datepicker",
+    "react-multiple-datepicker",
+    "preactjs",
+    "reactjs"
+  ],
+  "homepage": "https://codesandbox.io/s/p7q599zlqq",
+  "main": "index.js",
+  "dependencies": {
+    "react-multiple-datepicker": "0.0.7",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
